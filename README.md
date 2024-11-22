@@ -26,8 +26,8 @@ Hi, my name is Rey Mahendra, I'm a Full Stack Developer from Indonesia.
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reymahendra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reymahendra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true" height="150" width="" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=reymahendra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reymahendra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-dark&hide_border=true" height="150" width="" alt="languages graph"  />
 </div>
 
 <br>
@@ -85,7 +85,7 @@ Last Updated on 19-03-2024 17:21:11 UTC
 ###
 
 <div align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=reymahendra&theme=gruvbox&hide_border=true" height="" alt="">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=reymahendra&theme=solarized-dark&hide_border=true" height="" alt="">
 </div>
 
 
