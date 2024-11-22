@@ -20,9 +20,10 @@ new Person({
 ```
 
 ```cmd
-D:\septiar-mustafa> node index.js
-Hi, my name is Septiar, I'm a Full Stack Developer from Indonesia.
+D:\rey-mahendra> node index.js
+Hi, my name is Rey Mahendra, I'm a Full Stack Developer from Indonesia.
 ```
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reymahendra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -35,7 +36,7 @@ Hi, my name is Septiar, I'm a Full Stack Developer from Indonesia.
 
 ![Followers](https://img.shields.io/github/followers/septiarmustafa?label=Followers) ![Stars](https://img.shields.io/github/stars/septiarmustafa?label=Stars)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=septiarmustafa&label=Profile%20views&color=0e75b6&style=flat" alt="septiarmustafa" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=septiarmustafa&label=Profile%20views&color=0e75b6&style=flat" alt="reymahendra" /> </p>
 
 ---
 
@@ -88,7 +89,7 @@ Last Updated on 19-03-2024 17:21:11 UTC
 </div>
 
 
-<img align="right" height="150" src="https://drive.google.com/file/d/1Kj5aMhej6aYMKcdlXsr7EeXQZ4CT5RLa/view?usp=sharing"  />
+<img align="right" height="200" src="https://github.com/reymahendra/rey-mahendra/blob/main/assets/images/image.png"  />
 
 
 ###
@@ -123,8 +124,9 @@ Last Updated on 19-03-2024 17:21:11 UTC
 ###
 
 ###
-
+---
 <br clear="both">
+
 
 <img src="https://raw.githubusercontent.com/reymahendra/reymahendra/output/snake.svg" alt="Snake animation" />
 
